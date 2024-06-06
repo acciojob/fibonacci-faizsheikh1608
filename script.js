@@ -2,9 +2,9 @@ function fibonacci(num) {
 // your code here
 	let num1 = 0
 	let num2 = 1
-	if(num == )
+	if(num == 1)
 		return num1
-	if(num == )
+	if(num == 2)
 		return num2
 	let fib = 0
 
